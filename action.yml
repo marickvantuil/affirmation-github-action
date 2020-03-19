@@ -1,0 +1,8 @@
+name: 'Affirmation'
+description: 'Receive a random affirmation'
+affirmation:
+  text:
+    description: 'The random affirmation'
+runs:
+  using: 'node12'
+  main: 'index.js'
